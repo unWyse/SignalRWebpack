@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kyled\\Documents\\Developer\\Workspace\\msg-hub\\SignalRWebpack\\wwwroot\\css\\main.d39ccf85018ac7e4a36a.css",
+      "PackagePath": "staticwebassets\\css\\main.d39ccf85018ac7e4a36a.css"
+    },
+    {
+      "Id": "C:\\Users\\kyled\\Documents\\Developer\\Workspace\\msg-hub\\SignalRWebpack\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\kyled\\Documents\\Developer\\Workspace\\msg-hub\\SignalRWebpack\\wwwroot\\main.d39ccf85018ac7e4a36a.js",
+      "PackagePath": "staticwebassets\\main.d39ccf85018ac7e4a36a.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SignalRWebpack.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SignalRWebpack.props",
+      "PackagePath": "build\\SignalRWebpack.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SignalRWebpack.props",
+      "PackagePath": "buildMultiTargeting\\SignalRWebpack.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SignalRWebpack.props",
+      "PackagePath": "buildTransitive\\SignalRWebpack.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
