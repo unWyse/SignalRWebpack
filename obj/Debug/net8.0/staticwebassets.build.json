@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "w1M6tMHEhp0U0sVXvUmOjS6LHKbVZCJP18Kf127YxU0=",
+  "Hash": "xy68HHAsPg6qltBKo66zdsMZIQVDw3fq2L7MCfS1ilk=",
   "Source": "SignalRWebpack",
   "BasePath": "_content/SignalRWebpack",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\kyled\\Documents\\Developer\\Workspace\\msg-hub\\SignalRWebpack\\wwwroot\\css\\main.d39ccf85018ac7e4a36a.css",
+      "Identity": "C:\\Users\\kyled\\Documents\\Developer\\Workspace\\msg-hub\\SignalRWebpack\\wwwroot\\css\\main.88a4fe651e94d48475bf.css",
       "SourceId": "SignalRWebpack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\kyled\\Documents\\Developer\\Workspace\\msg-hub\\SignalRWebpack\\wwwroot\\",
       "BasePath": "_content/SignalRWebpack",
-      "RelativePath": "css/main.d39ccf85018ac7e4a36a.css",
+      "RelativePath": "css/main.88a4fe651e94d48475bf.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33,7 +33,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\main.d39ccf85018ac7e4a36a.css"
+      "OriginalItemSpec": "wwwroot\\css\\main.88a4fe651e94d48475bf.css"
     },
     {
       "Identity": "C:\\Users\\kyled\\Documents\\Developer\\Workspace\\msg-hub\\SignalRWebpack\\wwwroot\\index.html",
@@ -55,12 +55,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\kyled\\Documents\\Developer\\Workspace\\msg-hub\\SignalRWebpack\\wwwroot\\main.d39ccf85018ac7e4a36a.js",
+      "Identity": "C:\\Users\\kyled\\Documents\\Developer\\Workspace\\msg-hub\\SignalRWebpack\\wwwroot\\main.88a4fe651e94d48475bf.js",
       "SourceId": "SignalRWebpack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\kyled\\Documents\\Developer\\Workspace\\msg-hub\\SignalRWebpack\\wwwroot\\",
       "BasePath": "_content/SignalRWebpack",
-      "RelativePath": "main.d39ccf85018ac7e4a36a.js",
+      "RelativePath": "main.88a4fe651e94d48475bf.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -71,7 +71,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\main.d39ccf85018ac7e4a36a.js"
+      "OriginalItemSpec": "wwwroot\\main.88a4fe651e94d48475bf.js"
     }
   ]
 }

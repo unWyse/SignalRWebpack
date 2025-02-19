@@ -5,13 +5,13 @@ require("./css/main.css");
 var divMessages = document.querySelector("#divMessages");
 var tbMessage = document.querySelector("#tbMessage");
 var btnSend = document.querySelector("#btnSend");
-var username = new Date().getTime();
+var username = document.querySelector("#tbSender");
 var connection = new signalR.HubConnectionBuilder()
     .withUrl("/hub")
     .build();
 connection.on("messageReceived", function (username, message) {
     var m = document.createElement("div");
-    m.innerHTML = "<div class=\"message-author\">".concat(username, "</div><div>").concat(message, "</div>");
+    m.innerHTML = "<span class=\"message-author\">[".concat(username, "] </span><span>").concat(message, "</span>");
     divMessages.appendChild(m);
     divMessages.scrollTop = divMessages.scrollHeight;
 });
@@ -23,6 +23,6 @@ tbMessage.addEventListener("keyup", function (e) {
 });
 btnSend.addEventListener("click", send);
 function send() {
-    connection.send("newMessage", username, tbMessage.value)
+    connection.send("newMessage", username.value, tbMessage.value)
         .then(function () { return (tbMessage.value = ""); });
 }

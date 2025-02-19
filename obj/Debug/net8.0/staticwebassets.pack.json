@@ -1,16 +1,16 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\kyled\\Documents\\Developer\\Workspace\\msg-hub\\SignalRWebpack\\wwwroot\\css\\main.d39ccf85018ac7e4a36a.css",
-      "PackagePath": "staticwebassets\\css\\main.d39ccf85018ac7e4a36a.css"
+      "Id": "C:\\Users\\kyled\\Documents\\Developer\\Workspace\\msg-hub\\SignalRWebpack\\wwwroot\\css\\main.88a4fe651e94d48475bf.css",
+      "PackagePath": "staticwebassets\\css\\main.88a4fe651e94d48475bf.css"
     },
     {
       "Id": "C:\\Users\\kyled\\Documents\\Developer\\Workspace\\msg-hub\\SignalRWebpack\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\kyled\\Documents\\Developer\\Workspace\\msg-hub\\SignalRWebpack\\wwwroot\\main.d39ccf85018ac7e4a36a.js",
-      "PackagePath": "staticwebassets\\main.d39ccf85018ac7e4a36a.js"
+      "Id": "C:\\Users\\kyled\\Documents\\Developer\\Workspace\\msg-hub\\SignalRWebpack\\wwwroot\\main.88a4fe651e94d48475bf.js",
+      "PackagePath": "staticwebassets\\main.88a4fe651e94d48475bf.js"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SignalRWebpack.Microsoft.AspNetCore.StaticWebAssets.props",

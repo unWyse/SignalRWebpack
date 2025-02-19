@@ -27,3 +27,4 @@ C:\Users\kyled\Documents\Developer\Workspace\msg-hub\SignalRWebpack\obj\Debug\ne
 C:\Users\kyled\Documents\Developer\Workspace\msg-hub\SignalRWebpack\obj\Debug\net8.0\SignalRWebpack.pdb
 C:\Users\kyled\Documents\Developer\Workspace\msg-hub\SignalRWebpack\obj\Debug\net8.0\SignalRWebpack.genruntimeconfig.cache
 C:\Users\kyled\Documents\Developer\Workspace\msg-hub\SignalRWebpack\obj\Debug\net8.0\ref\SignalRWebpack.dll
+C:\Users\kyled\Documents\Developer\Workspace\msg-hub\SignalRWebpack\obj\Debug\net8.0\SignalRWebpack.sourcelink.json
